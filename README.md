@@ -38,3 +38,25 @@ This covers the interactive parts - what happens when someone clicks a button or
   <figcaption><em>Figure 1:</em> High-fidelity wireframe (Mobile View) with more detailed layout and visual elements.</figcaption>
 </figure>
 
+## Popular Wireframing Tools
+There are several tools available for creating both low- and high-fidelity wireframes. Each comes with its own strengths depending on your workflow, collaboration needs, and level of detail required. Here are a few commonly used ones:
+
+| Tool        | Description                                                                                  |
+|-------------|----------------------------------------------------------------------------------------------|
+| Figma   | A cloud-based design tool perfect for wireframing, prototyping, and collaboration in real time. |
+| Balsamiq    | Great for low-fidelity wireframes with a sketchy look, emphasizing layout over visuals.     |
+| Adobe XD    | Ideal for high-fidelity wireframes and interactive prototypes, especially for Adobe users.  |
+| Sketch      | A macOS-only tool widely used for UI/UX design, with strong support for wireframing plugins.|
+| Whimsical   | Combines wireframing, flowcharts, and sticky notes — good for brainstorming and fast ideation. |
+
+### Recommended: Figma
+
+Figma stands out as a go-to tool for many designers and developers, especially for teams.
+
+- **Cloud-based**: Access your projects from anywhere — no need to install anything.
+- **Real-time collaboration**: Multiple people can work on the same file simultaneously.
+- **Component system**: Reuse elements like buttons and input fields to maintain consistency.
+- **Prototyping features**: Create interactive mockups directly within the figma.
+- **Browser-friendly**: Works smoothly right in your browser, with optional desktop apps.
+
+> You can try it for free at [figma.com](https://figma.com).
