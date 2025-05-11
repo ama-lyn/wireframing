@@ -25,3 +25,16 @@ This is figuring out where text, images, buttons, and forms go. For instance, pu
 
 ### Functionality
 This covers the interactive parts - what happens when someone clicks a button or fills out a form. In your wireframe, you might show dropdown menus, accordions that expand, or pop-up windows that appear after certain actions.
+
+## Types of Wireframes
+| **Wireframe Type**       | **Description**                                                                                                                                                             | **Best Used When**                                                                                                            | **Benefits**                                                                                   |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| **Low-Fidelity Wireframes**  | Basic sketches focused on layout and structure. Often hand-drawn or made with simple digital tools.                                                                        | - You're brainstorming ideas  <br> - Need to quickly test different layouts <br> - Early feedback sessions                      | - Super quick to create <br> - Easy to discard and iterate <br> - Helps capture initial ideas without focusing on details |
+| **High-Fidelity Wireframes** | More detailed and closer to the final product. Includes accurate layout, real content, and basic visuals like buttons or shading.                                            | - After settling on a layout <br> - When more detailed feedback is needed <br> - Before full mockups <br> - For stakeholder communication | - Offers a clearer picture of the final product <br> - Helps with detailed feedback <br> - Easier for non-designers to understand |
+
+### Example
+<figure>
+  <img src="./High-fi.png" alt="High-fidelity wireframe (Mobile View)" width="600"/>
+  <figcaption><em>Figure 1:</em> High-fidelity wireframe (Mobile View) with more detailed layout and visual elements.</figcaption>
+</figure>
+
