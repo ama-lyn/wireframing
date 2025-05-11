@@ -12,3 +12,16 @@ You can start simple using hand-drawn wireframes using pen and paper (the fastes
 > Saves you time and effort down the road
 > Boost creativity as you can freely try out different ideas
 > Effective planning and costing.
+
+## Key Elements of Wireframing
+### Layout Structure
+This is basically how you organize your page. It's the overall arrangement of sections like headers, sidebars, and footers. For example, deciding if your homepage has a big hero image at the top or a grid of product cards helps determine how users will scan your page.
+
+### Navigation
+This shows how people will move around your site. Things like menus, search bars, and breadcrumbs help users find what they need. Good navigation in your wireframe might show that users can get from the homepage to any product page in just two clicks.
+
+### Content Placement
+This is figuring out where text, images, buttons, and forms go. For instance, putting your most important info "above the fold" (visible without scrolling) makes sure users see it right away. Your wireframe might show where product descriptions go versus where product images appear.
+
+### Functionality
+This covers the interactive parts - what happens when someone clicks a button or fills out a form. In your wireframe, you might show dropdown menus, accordions that expand, or pop-up windows that appear after certain actions.
